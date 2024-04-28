@@ -1,7 +1,7 @@
 package com.example.notifyme;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.app.AppCompatActivity;
+
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -16,7 +16,7 @@ import android.content.Intent;
 import android.app.PendingIntent;
 
 
-import android.os.Bundle;
+
 
 public class MainActivity extends AppCompatActivity {
     private Button button_notify;
